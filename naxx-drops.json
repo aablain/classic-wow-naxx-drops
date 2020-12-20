@@ -1,0 +1,351 @@
+{
+    "drops": [
+        {
+            "itemName": "wristguards of vengeance",
+            "itemNumber": 22936,
+            "dropDate": "12/03/2020",
+            "recipientName": "dromar",
+            "recipientRoll": 0,
+            "bossName": "anub'rekhan",
+            "tags": [
+                "warrior"
+            ]
+        },
+        {
+            "itemName": "desecrated wristguards",
+            "itemNumber": 22369,
+            "dropDate": "12/03/2020",
+            "recipientName": "aizkora",
+            "recipientRoll": 0,
+            "bossName": "anub'rekhan",
+            "tags": [
+                "shaman",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "desecrated wristguards",
+            "itemNumber": 22369,
+            "dropDate": "12/03/2020",
+            "recipientName": "suweela",
+            "recipientRoll": 0,
+            "bossName": "grand widow faerlina",
+            "tags": [
+                "shaman",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "malice stone pendant",
+            "itemNumber": 22943,
+            "dropDate": "12/03/2020",
+            "recipientName": "kahlesii",
+            "recipientRoll": 0,
+            "bossName": "grand widow faerlina",
+            "tags": [
+                "warlock"
+            ]
+        },
+        {
+            "itemName": "harbringer of doom",
+            "itemNumber": 23044,
+            "dropDate": "12/1/2020",
+            "recipientName": "taltz",
+            "recipientRoll": 0,
+            "bossName": "trash",
+            "tags": [
+                "warrior",
+                "weapon",
+                "dagger"
+            ]
+        },
+        {
+            "itemName": "desecrated girdle",
+            "itemNumber": 22363,
+            "dropDate": "12/07/2020",
+            "recipientName": "exilo",
+            "recipientRoll": 0,
+            "bossName": "noth the plaguebringer",
+            "tags": [
+                "shaman",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "cloak of the scourge",
+            "itemNumber": 23030,
+            "dropDate": "12/07/2020",
+            "recipientName": "psilocybine",
+            "recipientRoll": 0,
+            "bossName": "noth the plaguebringer",
+            "tags": [
+                "druid",
+                "passed"
+            ]
+        },
+        {
+            "itemName": "kiss of the spider",
+            "itemNumber": 22954,
+            "dropDate": "12/07/2020",
+            "recipientName": "lunchbox",
+            "recipientRoll": 0,
+            "bossName": "maexxna",
+            "tags": [
+                "rogue"
+            ]
+        },
+        {
+            "itemName": "desecrated gauntlets",
+            "itemNumber": 22357,
+            "dropDate": "12/07/2020",
+            "recipientName": "thrasta",
+            "recipientRoll": 0,
+            "bossName": "maexxna",
+            "tags": [
+                "warrior",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "desecrated gauntlets",
+            "itemNumber": 22357,
+            "dropDate": "12/07/2020",
+            "recipientName": "dreddvito",
+            "recipientRoll": 0,
+            "bossName": "maexxna",
+            "tags": [
+                "rogue",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "wristguards of vengeance",
+            "itemNumber": 22936,
+            "dropDate": "12/08/2020",
+            "recipientName": "Garant",
+            "recipientRoll": 0,
+            "bossName": "anub'rekhan",
+            "tags": [
+                "warrior"
+            ]
+        },
+        {
+            "itemName": "desecrated wristguards",
+            "itemNumber": 22369,
+            "dropDate": "12/08/2020",
+            "recipientName": "exilo",
+            "recipientRoll": 0,
+            "bossName": "anub'rekhan",
+            "tags": [
+                "shaman",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "the widow's embrace",
+            "itemNumber": 22942,
+            "dropDate": "12/08/2020",
+            "recipientName": "sugarshack",
+            "recipientRoll": 0,
+            "bossName": "grand widow faerlina",
+            "tags": [
+                "shaman",
+                "weapon"
+            ]
+        },
+        {
+            "itemName": "desecrated bindings",
+            "itemNumber": 22369,
+            "dropDate": "12/08/2020",
+            "recipientName": "nightsshade",
+            "recipientRoll": 0,
+            "bossName": "grand widow faerlina",
+            "tags": [
+                "warlock",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "pendant of forgotten names",
+            "itemNumber": 22947,
+            "dropDate": "12/08/2020",
+            "recipientName": "exilo",
+            "recipientRoll": 0,
+            "bossName": "maexxna",
+            "tags": [
+                "shaman"
+            ]
+        },
+        {
+            "itemName": "descrated gloves",
+            "itemNumber": 22371,
+            "dropDate": "12/08/2020",
+            "recipientName": "",
+            "recipientRoll": 0,
+            "bossName": "maexxna",
+            "tags": []
+        },
+        {
+            "itemName": "noth's frigid heart",
+            "itemNumber": 23029,
+            "dropDate": "12/08/2020",
+            "recipientName": "aizkora",
+            "recipientRoll": 0,
+            "bossName": "noth the plaguebringer",
+            "tags": [
+                "shaman"
+            ]
+        },
+        {
+            "itemName": "desecrated waistguard",
+            "itemNumber": 22356,
+            "dropDate": "12/08/2020",
+            "recipientName": "thrasta",
+            "recipientRoll": 0,
+            "bossName": "noth the plaguebringer",
+            "tags": [
+                "warrior",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "wand of the whispering dead",
+            "itemNumber": 23009,
+            "dropDate": "12/14/2020",
+            "recipientName": "hobyurky",
+            "recipientRoll": 0,
+            "bossName": "instructor razuvious",
+            "tags": [
+                "priest",
+                "weapon"
+            ]
+        },
+        {
+            "itemName": "wristguards of vengeance",
+            "itemNumber": 22936,
+            "dropDate": "12/15/2020",
+            "recipientName": "moocows",
+            "recipientRoll": 0,
+            "bossName": "anub'rekhan",
+            "tags": [
+                "warrior",
+                "passed"
+            ]
+        },
+        {
+            "itemName": "descrated bindings",
+            "itemNumber": 22369,
+            "dropDate": "12/15/2020",
+            "recipientName": "kör",
+            "recipientRoll": 0,
+            "bossName": "anub'rekhan",
+            "tags": [
+                "mage",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "icebane pauldrons",
+            "itemNumber": 22940,
+            "dropDate": "12/15/2020",
+            "recipientName": "frugor",
+            "recipientRoll": 0,
+            "bossName": "grand widow faerlina",
+            "tags": [
+                "warrior",
+                "FR"
+            ]
+        },
+        {
+            "itemName": "descrated bindings",
+            "itemNumber": 22369,
+            "dropDate": "12/15/2020",
+            "recipientName": "selstrait",
+            "recipientRoll": 0,
+            "bossName": "grand widow faerlina",
+            "tags": [
+                "priest",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "crystal webbed robe",
+            "itemNumber": 23220,
+            "dropDate": "12/15/2020",
+            "recipientName": "jooda",
+            "recipientRoll": 0,
+            "bossName": "maexxna",
+            "tags": [
+                "priest"
+            ]
+        },
+        {
+            "itemName": "desecrated handguards",
+            "itemNumber": 22364,
+            "dropDate": "12/15/2020",
+            "recipientName": "exilo",
+            "recipientRoll": 0,
+            "bossName": "maexxna",
+            "tags": [
+                "shaman",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "desecrated handguards",
+            "itemNumber": 22364,
+            "dropDate": "12/15/2020",
+            "recipientName": "rainshine",
+            "recipientRoll": 0,
+            "bossName": "maexxna",
+            "tags": [
+                "druid",
+                "t3"
+            ]
+        },
+        {
+            "itemName": "desecrated waistguard",
+            "itemNumber": 22356,
+            "dropDate": "12/15/2020",
+            "recipientName": "dromar",
+            "recipientRoll": 0,
+            "bossName": "noth the plaguebringer",
+            "tags": []
+        },
+        {
+            "itemName": "hailstone band",
+            "itemNumber": 23028,
+            "dropDate": "12/15/2020",
+            "recipientName": "suweela",
+            "recipientRoll": 0,
+            "bossName": "noth the plaguebringer",
+            "tags": [
+                "shaman",
+                "FR"
+            ]
+        },
+        {
+            "itemName": "legplates of carnage",
+            "itemNumber": 23068,
+            "dropDate": "12/15/2020",
+            "recipientName": "frugor",
+            "recipientRoll": 0,
+            "bossName": "heigan the unclean",
+            "tags": [
+                "warrior"
+            ]
+        },
+        {
+            "itemName": "desecrated belt",
+            "itemNumber": 22370,
+            "dropDate": "12/15/2020",
+            "recipientName": "cygnusxtwo",
+            "recipientRoll": 0,
+            "bossName": "heigan the unclean",
+            "tags": [
+                "warlock",
+                "t3"
+            ]
+        }
+    ]
+}
